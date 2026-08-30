@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Min Jeong",
+    "section": "",
+    "text": "I am a PhD student in Geospatial Information Science at the University of Texas at Dallas."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "• Jeong, M., & Chun, Y., Evaluating Predictive Accuracy for Spatial Interaction in Origin-Destination Flows\n\n\nThe analysis uses commuting flow data from the Longitudinal Employer-Household Dynamics Origin-Destination Employment Statistics (LODES) for eleven counties in the Dallas-Fort Worth (DFW) metropolitan region. Block-level flows were aggregated to 1,704 census tracts, resulting in 164,507 origin-destination flow observations. Each observation represents the number of workers traveling between an origin and a destination tract. These flows are shaped by origin and destination characteristics, geographic separation, and surrounding spatial structure. Accordingly, this study evaluates whether incorporating spatial features for both origins and destinations improves predictive performance across different modeling frameworks."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "• Jeong, M., & Chun, Y., Evaluating Predictive Accuracy for Spatial Interaction in Origin-Destination Flows\n\n\nThe analysis uses commuting flow data from the Longitudinal Employer-Household Dynamics Origin-Destination Employment Statistics (LODES) for eleven counties in the Dallas-Fort Worth (DFW) metropolitan region. Block-level flows were aggregated to 1,704 census tracts, resulting in 164,507 origin-destination flow observations. Each observation represents the number of workers traveling between an origin and a destination tract. These flows are shaped by origin and destination characteristics, geographic separation, and surrounding spatial structure. Accordingly, this study evaluates whether incorporating spatial features for both origins and destinations improves predictive performance across different modeling frameworks."
+  },
+  {
+    "objectID": "research.html#published-papers",
+    "href": "research.html#published-papers",
+    "title": "Research",
+    "section": "Published Papers",
+    "text": "Published Papers\n• Koo, H., Yoo, M., Kang, H., Cho, Y., & Jeong, M. (2026). Evaluating the Integration of Spatial Features in Machine Learning for Model Accuracy and Residual Autocorrelation. Transactions in GIS, 30(2), e70230. [DOI] [PDF]\n• Yoo, M., Kang, H., Cho, Y., Jeong, M., Koo, H. and Lim, S. (2025). Comparing Local Estimates of Election Vote Share Determinants Using Spatially Varying Coefficient Models. journal of Korean Society for Geospatial Information Science, 33(4), 89-107. (in Korean) [DOI]\n• Jeong, M., & Koo, H. (2025). Evaluating spatio-temporal kriging with machine learning considering the sources of spatio-temporal variation. ISPRS International Journal of Geo-Information, 14(6), 224. [DOI] [PDF]\n• Jeong, M., Yoo, M., Kang, H., Cho, Y., & Koo, H. (2025). Impacts of Spatio-Temporal Variation on Estimation of Spatial and Spatio-Temporal Kriging. Korean Journal of Remote Sensing, 41(2), 437-446. (in Korean) [DOI] [PDF]\n• Jeong, M., Kang, H. & Koo, H. (2024). Varying prediction accuracies of spatially constrained hierarchical clustering-based machine learning with different numbers of clusters, Journal of the Korean Society for Geospatial Information Science, 32 (3), 15-27. (in Korean) [DOI]\n• Kang, H., Jeong, M. & Koo, H. (2024). Spatial clustering with contiguity constraint for improving prediction accuracy in spatial machine learning, Journal of the Korean Society of Surveying, Geodesy, Photogrammetry and Cartography, 42 (4), 327-338. (in Korean) [DOI]"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Min Jeong",
+    "section": "Research Interests",
+    "text": "Research Interests\n• Spatial statistics\n• Machine learning application in spatial analysis"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "GISC 6321 — Spatial Data Science University of Texas at Dallas Fall 2026\nGISC 4382 — Applied Geographic Information Systems University of Texas at Dallas Spring 2026\nGISC 2307 — Digital Earth University of Texas at Dallas Fall 2025\n85901 — Fundamentals of Geospatial Information Sciences University of Seoul Fall 2024"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "",
+    "text": "GISC 6321 — Spatial Data Science University of Texas at Dallas Fall 2026\nGISC 4382 — Applied Geographic Information Systems University of Texas at Dallas Spring 2026\nGISC 2307 — Digital Earth University of Texas at Dallas Fall 2025\n85901 — Fundamentals of Geospatial Information Sciences University of Seoul Fall 2024"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF"
+  }
+]
