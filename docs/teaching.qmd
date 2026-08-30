@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## Teaching Assistant
+
+**GISC 6321 — Spatial Data Science** 
+University of Texas at Dallas *Fall 2026* 
+
+
+**GISC 4382 — Applied Geographic Information Systems** 
+University of Texas at Dallas *Spring 2026*
+
+**GISC 2307 — Digital Earth** 
+University of Texas at Dallas *Fall 2025* 
+
+**85901 — Fundamentals of Geospatial Information Sciences** 
+University of Seoul *Fall 2024* 

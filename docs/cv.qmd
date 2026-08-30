@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+[Download PDF](cv_MinJeong.pdf){.btn .btn-primary}
+
+<iframe src="cv_MinJeong.pdf" width="100%" height="800px"></iframe>
